@@ -68,6 +68,10 @@ This project is built on **[AutoGen](https://github.com/microsoft/autogen)** by 
 - **ddgs**: [github.com/deedy5/ddgs](https://github.com/deedy5/ddgs) — web search
 - **edge-tts**: Microsoft Edge TTS for speech synthesis
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute. [Contributors](CONTRIBUTORS.md) are listed separately.
+
 ## License
 
 MIT
